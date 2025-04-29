@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Temple Roofing Pros</title>
+						<title>Locations Sitemap - Logan Roofing Pros</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Temple Roofing Pros</title>
+						<title>XML Sitemap - Logan Roofing Pros</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
